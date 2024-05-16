@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/95f674828be94334896a0538295c4ea7/artifacts
+end_time: 1715870048091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95f674828be94334896a0538295c4ea7
+run_name: illustrious-sow-41
+run_uuid: 95f674828be94334896a0538295c4ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715870047899
+status: 4
+tags: []
+user_id: root

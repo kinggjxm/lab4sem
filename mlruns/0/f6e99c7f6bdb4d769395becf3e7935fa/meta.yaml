@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/f6e99c7f6bdb4d769395becf3e7935fa/artifacts
+end_time: 1715870250326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6e99c7f6bdb4d769395becf3e7935fa
+run_name: fearless-dove-287
+run_uuid: f6e99c7f6bdb4d769395becf3e7935fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715870250015
+status: 3
+tags: []
+user_id: root
