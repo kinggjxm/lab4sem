@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/caed75c18fea4c5299cd46ba71efc655/artifacts
+end_time: 1715861686577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caed75c18fea4c5299cd46ba71efc655
+run_name: respected-shrimp-155
+run_uuid: caed75c18fea4c5299cd46ba71efc655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715861686316
+status: 4
+tags: []
+user_id: root

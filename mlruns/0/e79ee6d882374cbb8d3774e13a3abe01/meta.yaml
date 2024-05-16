@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/e79ee6d882374cbb8d3774e13a3abe01/artifacts
+end_time: 1715862141612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e79ee6d882374cbb8d3774e13a3abe01
+run_name: wistful-swan-45
+run_uuid: e79ee6d882374cbb8d3774e13a3abe01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715862141446
+status: 4
+tags: []
+user_id: root

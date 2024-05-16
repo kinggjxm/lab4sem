@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/195ebb535a8c4e32a124778d83df4a2b/artifacts
+end_time: 1715861641923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 195ebb535a8c4e32a124778d83df4a2b
+run_name: shivering-wren-31
+run_uuid: 195ebb535a8c4e32a124778d83df4a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715861641771
+status: 4
+tags: []
+user_id: root

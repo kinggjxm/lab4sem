@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/pipe/lab4sem/mlruns/0/f3db8d81829d41ab8c707aef3a30a7c4/artifacts
+end_time: 1715866383263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3db8d81829d41ab8c707aef3a30a7c4
+run_name: useful-ray-701
+run_uuid: f3db8d81829d41ab8c707aef3a30a7c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866382731
+status: 4
+tags: []
+user_id: root
